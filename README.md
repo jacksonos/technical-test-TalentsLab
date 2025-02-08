@@ -3,7 +3,7 @@
 
 Prueba técnica para Brecomperu.
 
-Construido con yarn. Para instalar:
+Construido con yarn.
 Para correr el proyecto en repositorio local:
 - Instalar dependencias
 ```js
