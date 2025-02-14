@@ -1,4 +1,4 @@
-# Prueva técnica
+# Prueba técnica
 
 
 Prueba técnica para Brecomperu.
